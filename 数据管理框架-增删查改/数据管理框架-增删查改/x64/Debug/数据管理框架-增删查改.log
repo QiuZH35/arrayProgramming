@@ -1,0 +1,21 @@
+﻿  dataarray.c
+D:\vs2017Data\28.数组编程\数据管理框架-增删查改\数据管理框架-增删查改\datastruct.h(13,1): error C2011: “Data”:“struct”类型重定义
+D:\vs2017Data\28.数组编程\数据管理框架-增删查改\数据管理框架-增删查改\datastruct.h(12): message : 参见“Data”的声明
+D:\vs2017Data\28.数组编程\数据管理框架-增删查改\数据管理框架-增删查改\dataarray.c(19,21): warning C4013: “getnum”未定义；假设外部返回 int
+D:\vs2017Data\28.数组编程\数据管理框架-增删查改\数据管理框架-增删查改\dataarray.c(23,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\vs2017Data\28.数组编程\数据管理框架-增删查改\数据管理框架-增删查改\dataarray.c(165,21): warning C4013: “getch”未定义；假设外部返回 int
+D:\vs2017Data\28.数组编程\数据管理框架-增删查改\数据管理框架-增删查改\dataarray.c(230,62): warning C4090: “函数”: 不同的“const”限定符
+D:\vs2017Data\28.数组编程\数据管理框架-增删查改\数据管理框架-增删查改\dataarray.c(230,62): warning C4113: “int (__cdecl *)(void *,void *)”和“_CoreCrtNonSecureSearchSortCompareFunction”的参数列表不同
+D:\vs2017Data\28.数组编程\数据管理框架-增删查改\数据管理框架-增删查改\dataarray.c(235,64): warning C4090: “函数”: 不同的“const”限定符
+D:\vs2017Data\28.数组编程\数据管理框架-增删查改\数据管理框架-增删查改\dataarray.c(235,64): warning C4113: “int (__cdecl *)(void *,void *)”和“_CoreCrtNonSecureSearchSortCompareFunction”的参数列表不同
+D:\vs2017Data\28.数组编程\数据管理框架-增删查改\数据管理框架-增删查改\dataarray.c(409,47): warning C4047: “=”:“char *”与“char”的间接级别不同
+  datastruct.c
+D:\vs2017Data\28.数组编程\数据管理框架-增删查改\数据管理框架-增删查改\datastruct.c(24,20): warning C4267: “=”: 从“size_t”转换到“unsigned char”，可能丢失数据
+  Main.c
+D:\vs2017Data\28.数组编程\数据管理框架-增删查改\数据管理框架-增删查改\datastruct.h(13,1): error C2011: “Data”:“struct”类型重定义
+D:\vs2017Data\28.数组编程\数据管理框架-增删查改\数据管理框架-增删查改\datastruct.h(12): message : 参见“Data”的声明
+  ui.c
+D:\vs2017Data\28.数组编程\数据管理框架-增删查改\数据管理框架-增删查改\datastruct.h(13,1): error C2011: “Data”:“struct”类型重定义
+D:\vs2017Data\28.数组编程\数据管理框架-增删查改\数据管理框架-增删查改\datastruct.h(12): message : 参见“Data”的声明
+D:\vs2017Data\28.数组编程\数据管理框架-增删查改\数据管理框架-增删查改\ui.c(40,16): warning C4013: “getch”未定义；假设外部返回 int
+  正在生成代码...

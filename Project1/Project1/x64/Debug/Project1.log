@@ -1,0 +1,5 @@
+﻿  源.cpp
+D:\vs2017Data\28.数组编程\Project1\Project1\源.cpp(86,10): warning C4552: ”+“: 未使用表达式结果
+D:\vs2017Data\28.数组编程\Project1\Project1\源.cpp(39): warning C4715: “Mystrstr”: 不是所有的控件路径都返回值
+D:\vs2017Data\28.数组编程\Project1\Project1\源.cpp(77): warning C4715: “Mynstrcpy”: 不是所有的控件路径都返回值
+  Project1.vcxproj -> D:\vs2017Data\28.数组编程\Project1\x64\Debug\Project1.exe
